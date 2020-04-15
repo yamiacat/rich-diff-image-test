@@ -1,3 +1,7 @@
+test.txt filter=lfs diff=lfs merge=lfs -text
+test1.rtf filter=lfs diff=lfs merge=lfs -text
+test2.rtf filter=lfs diff=lfs merge=lfs -text
+readme.md filter=lfs diff=lfs merge=lfs -text
 * !text !filter !merge !diff
 folder1/subfolder1/nyarla-png.png filter=lfs diff=lfs merge=lfs -text
 folder2/nyarla-png2.png filter=lfs diff=lfs merge=lfs -text
